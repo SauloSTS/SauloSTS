@@ -30,7 +30,30 @@ Tenho bom conhecimento na engine Unity(já que utilizavam bastante para fazer pr
 I'm Saulo Tavares Silva, a person passionate about programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 I have a degree in System Analysis and Development and I am currently undertaking a postgraduate MBA in Information Technology in order to further refine my knowledge, in addition to taking some training courses.
 I have good knowledge of the Unity engine (since I used it a lot to do projects with some friends), I have knowledge of C# and JavaScript (much more in C# because of the projects in Unity) and also in MySQL and Firebase. I really enjoy trying to make app clones, mechanics and pages in order to further improve my skills and challenge myself in order to refine the skills and knowledge that I have been acquiring on my study journey.
-  
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="Csharp" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+     
+</div>
+
+---
+
+### :fire: My Stats :
+
+   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SauloSTS&theme=black-ice&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloSTS&layout=compact&theme=vision-friendly-dark)](https://github.com/SauloSTS/github-readme-stats)
+      
 <!--
 **SauloSTS/SauloSTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
